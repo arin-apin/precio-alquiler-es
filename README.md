@@ -4,9 +4,9 @@ Demo de gráfico animado mostrando la evolución del precio del alquiler de vivi
 
 ## 📊 Datos
 - **Fuente**: [Idealista - Informes precio vivienda](https://www.idealista.com/sala-de-prensa/informes-precio-vivienda/alquiler/)
-- **Período**: 2008 - Agosto 2025
+- **Período**: 2006 - Marzo 2026
 - **Ciudades**: Valencia, Donosti, Madrid, Barcelona, Málaga, Sevilla
-- **Actualización**: Datos actualizados a agosto 2025
+- **Actualización**: Datos actualizados a marzo 2026
 
 ## 🎬 Visualización
 
